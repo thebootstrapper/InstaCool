@@ -1,0 +1,60 @@
+body{
+    /*background-image: url("img/cover.jpg");*/
+    background-color: #e8e5e5;
+}
+
+
+/*connexion*/
+.mycontainer-fluid{
+    width:100%;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+/* style de la bar de  navigation */
+#myrownavbar{
+    padding-bottom: 100px;
+}
+
+/* style du formulaire de connexion */
+#div_connexion {
+    background-color: #e5e7e9 ;
+    box-shadow: 5px 5px  10px 10px grey;
+    padding: 35px;
+}
+#div_profil_header {
+    background-color: #e5e7e9 ;
+    box-shadow: 5px 5px  10px 10px grey;
+    padding: 35px;
+}
+/* style ds bouttons des 2 formulaires */
+#connexion_button ,#mail_button{
+    width: 300px;
+}
+
+/* style du texte "mot de passe oublié" */
+#mot_de_passe_ouble{
+    margin-top: 25px;
+}
+
+/* style du bouton de connexion du forulaire de connxion */
+#connexion_button{
+    margin-top: 10px;
+}
+
+#creation_compte_alerte{
+    /*  padding-bottom:  30px;*/
+}
+
+
+/* style du formulaire de creation de compte */
+#div_creation_compte {
+    background-color: #e5e7e9 ;
+    box-shadow: 5px 5px  10px 10px grey;
+    padding: 35px;
+}
+
+/* style du message d'alert */
+#div_erreur .alert{
+    /*  padding: 15px;*/
+}
